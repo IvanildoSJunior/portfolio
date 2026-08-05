@@ -223,12 +223,13 @@ article h2 {
 }
 
 #projetos-container .foto {
-    width: 100%;
+    width: 80%;
     aspect-ratio: 16/9;
     object-fit: cover;
     overflow: hidden;
     border-radius: 8px;
 }
+
 
 footer {
     background-color: var(--destaque);
